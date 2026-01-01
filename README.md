@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m Ehtesham Anwar, a MERN and Next.js developer. I like building things that actually work well, from clean frontend pages to solid backend logic. Most of my learning comes from making real projects, fixing bugs, and improving code step by step.
+I’m Ehtesham Anwar, a full-stack web developer focused on building reliable and well-structured web applications. I work with React to develop clean and responsive user interfaces, and use Next.js with Node.js to build scalable backend systems and APIs.
+
+I have hands-on experience working across the full development cycle — from planning features and designing UI to implementing backend logic and integrating databases. I enjoy solving problems, improving performance, and continuously refining my code through real project work. I’m always eager to learn new technologies and contribute to meaningful products.
 
 
 ## 🌐 Socials:
